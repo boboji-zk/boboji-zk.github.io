@@ -1,5 +1,4 @@
 .deploy_git/
 .idea/
-db.json
 yarn.lock
 package-lock.json
