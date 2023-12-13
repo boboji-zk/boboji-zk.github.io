@@ -2,3 +2,5 @@
 .idea/
 public/
 db.json
+yarn.lock
+package-lock.json
