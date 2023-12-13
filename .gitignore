@@ -1,6 +1,5 @@
 .deploy_git/
 .idea/
-public/
 db.json
 yarn.lock
 package-lock.json
