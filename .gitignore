@@ -1,0 +1,4 @@
+.deploy_git/
+.idea/
+public/
+db.json
