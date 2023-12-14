@@ -37,4 +37,4 @@ flush privileges;
 select user, host from user where user='root';
 ```
 
-![image-20231023152248053](images\image-20231023152248053.png)
+![image-20231023152248053](images/image-20231023152248053.png)
