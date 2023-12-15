@@ -1,5 +1,5 @@
 ---
-title: hive-jdbc造成依赖冲突.md
+title: hive-jdbc造成依赖冲突
 date: 2023-12-13 20:05:25
 categories: 踩坑记录
 ---
