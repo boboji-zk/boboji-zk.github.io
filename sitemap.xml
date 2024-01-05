@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://boboji-zk.github.io/posts/a1822eff.html</loc>
+    <loc>https://boboji-zk.github.io/posts/e21bcd6d.html</loc>
     
     <lastmod>2024-01-05</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/posts/e21bcd6d.html</loc>
+    <loc>https://boboji-zk.github.io/posts/a1822eff.html</loc>
     
     <lastmod>2024-01-05</lastmod>
     
@@ -83,6 +83,15 @@
   </url>
   
   <url>
+    <loc>https://boboji-zk.github.io/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://boboji-zk.github.io/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -101,34 +110,7 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://boboji-zk.github.io/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://boboji-zk.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://boboji-zk.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -146,6 +128,15 @@
   </url>
   
   <url>
+    <loc>https://boboji-zk.github.io/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://boboji-zk.github.io/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/site/time/index.html</loc>
+    <loc>https://boboji-zk.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,7 +155,16 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/social/link/index.html</loc>
+    <loc>https://boboji-zk.github.io/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://boboji-zk.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/tags/SpringBoot/</loc>
+    <loc>https://boboji-zk.github.io/tags/Hexo/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -212,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/tags/Hexo/</loc>
+    <loc>https://boboji-zk.github.io/tags/SpringBoot/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -228,14 +228,14 @@
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/categories/Java/</loc>
+    <loc>https://boboji-zk.github.io/categories/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://boboji-zk.github.io/categories/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://boboji-zk.github.io/categories/Java/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
